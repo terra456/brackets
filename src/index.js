@@ -16,18 +16,6 @@ module.exports = function check(str, bracketsConfig) {
 
         }
 
-            // } else if (arr[i] == ")" && arr[i-2] == "(") {
-            //     var removed = arr.splice(i-2, 3);
-            //     i = i-2;
-            // } else if (arr[i] == "}" && arr[i-2] == "{") {
-            //     var removed = arr.splice(i-2, 3);
-            //     i = i-2;
-            // } else if (arr[i] == "]" && arr[i-2] == "[") {
-            //     var removed = arr.splice(i-2, 3);
-            //     i = i-2;
-            // }
-
-
      }
 
 
